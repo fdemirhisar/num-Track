@@ -1,0 +1,8 @@
+After entering python {file_name}.py -p "phone number" in terminal 
+
+There wil be an Aerial Coverage, which will include a HTML file.
+Open your file explorer and navigate to the directory where your HTML file is located.
+Locate the HTML file named "phone number".
+Double-click on the HTML file to open it. This should launch the default web browser on your system.
+The web browser will display the HTML file, including the map you generated using Folium.
+You can now interact with the map using your mouse or trackpad. You can zoom in or out, click on markers for more information, and explore the map as you would on any web-based map application.
