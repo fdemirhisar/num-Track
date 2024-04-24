@@ -1,0 +1,5 @@
+Since this code requires SSL1.1.1, not every operating system may support it. The commands required to run it on Linux are given below.
+
+sudo apt update
+sudo apt install openssl
+openssl version
